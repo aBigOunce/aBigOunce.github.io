@@ -1,0 +1,1 @@
+This repo hosts the website for BigOunces Skyrim Special Edition. This file is the repo's readme page, shown when the repo is directly accessed on GitHub, and so should not have Jekyll "front matter" added to it.
